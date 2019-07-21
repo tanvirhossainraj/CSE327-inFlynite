@@ -63,7 +63,7 @@
 								<li><a href="#features" data-scroll>Features</a></li>
                                 <li><a href="#faqs" data-scroll>Faq</a></li>
                                 <li><a href="#contact" data-scroll>Contact</a></li>
-                                <li class="nav-download-btn"><a href="login.php" class="login">Log In!</a></li>		
+                                <li class="nav-download-btn"><a href="loginpage.php" class="login">Log In!</a></li>		
 							</ul>
                         </div><!-- .navbar-collapse -->
 					</div>

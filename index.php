@@ -136,7 +136,37 @@
                 </div><!-- Ends: .col-sm-3 -->
             </div>
         </div>
-    </section><!-- Ends: .services i.e. next header-->    
+    </section><!-- Ends: .services i.e. next header-->   
+	
+<!-- About App -->
+    <section class="faqs2" id="faqs2">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 section-header">
+                <h2 style="color:white;text-transform:none;">Why inFlynite?</h2>
+                <br>
+                <br>
+                <p style="color:white;font-size:30px;"><b>inFlynite</b> tries to bring you a little bit of everything in your hand starting from managing flights, employees, airlines, passengers to even booking flights and searching them as well providing boarding pass and seat reservations! So find your way upto <b>inFlynite</b> abilities! Reach for the <b>inFlynite</b>!</p>
+                </div>
+                <div class="col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="container">
+                                                                            
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            
+            
+
+        </div>
+    <!-- end of container -->                                                                                                                                           
+                                        
+                                        
+                    </div><!-- /container -->
+                </div><!-- Ends: .col-sm-6 -->
+            
+        </div>
+    </section>
+    
+    
+    <!-- Ends: about-app -->	
 
         <!-- ===================================================
         Javascript Files

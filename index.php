@@ -174,8 +174,17 @@
             <div class="row">
                 <div class="col-sm-12 section-header">
                     <h2>Download</h2>
-					<br>
-					<br>
+		    <br>
+		    <br>
+		    <p style="color:black;font-size:30px;">You can download inFlynite from App Store and Play Store for iOS and Android devices respectively.It will be on as a beta version from 5th September 2018 and will be on complete air on those platforms since 10th September 2018.It will be on for desktop version as well in the later terms of the year during november!</p>
+                    <ul class="list-unstyled">
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section><!-- Ends: .download-app -->
 			
 			
         <!-- ===================================================

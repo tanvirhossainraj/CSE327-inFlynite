@@ -210,8 +210,107 @@
                         </div>
                     </div>
                 </div>
-                <!-- end of panel -->															
-			
+                <!-- end of panel -->	
+		
+		<!-- start of 2nd panel -->
+                <div class="panel">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#bs-collapse" href="#two">
+                                <i class="fa fa-search fa-lg"></i>How to book flights with inFlynite?
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="two" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Turn on the inFlynite app indicate the starting destination and where to travel to and then key in the Passenger's Name and further details required of the destination. Confirm your booking.
+                        <br>
+                        A confirmation message will be sent to you for your booking.Ticket name and number is provided – if you have any further instructions, kindly look at our contacts section!
+                        <br>
+                        Ensure the ticket has your name, number, and exact details clearly indicated. The information should also be well ensured off for secured traveling.
+                        </div>
+                    </div>
+                </div>
+                <!-- end of 2nd panel -->
+
+                <!-- start of 3rd panel -->
+                <div class="panel">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#bs-collapse" href="#four">
+                                <i class="fa fa-search fa-lg"></i>How is inFlynite different from other management services?
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="four" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            We provide an on-demand service with real-time booking such as booking a flight urgently as well providing the boarding pass when necessary!Even also the seats! You can also search flights for passengers to enquire about.
+                        </div>
+                    </div>
+                </div>
+                <!-- end of 3rd panel -->
+
+                <!-- start of 4th panel -->
+                 <div class="panel">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#bs-collapse" href="#five">
+                                <i class="fa fa-search fa-lg"></i>Can inFlynite keep so many informations flowing at the same time amidst all these?
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="five" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            inFlynite is currently an on-demand service that picks ups and delivers informations about anything on real-time tracking.
+                        </div>
+                    </div>
+                </div>
+                <!-- end of 4th panel -->
+
+                <!-- start of 5th panel -->
+                 <div class="panel">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#bs-collapse" href="#six">
+                                <i class="fa fa-search fa-lg"></i>Does inFlynite deliver outside of Dhaka?
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="six" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            Yes, we currently cover Chittagong and Sylhet. Will be shortly covering Rajshahi in the following four months. 
+                        </div>
+                    </div>
+                </div>
+                <!-- end of 5th panel -->
+
+                <!-- start of 6th panel -->
+                 <div class="panel">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#bs-collapse" href="#seven">
+                                <i class="fa fa-search fa-lg"></i>Will your informations be safe?
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="seven" class="panel-collapse collapse">
+                        <div class="panel-body">
+                        All personals signed up with their booking number to provide the confirmation code for inFlynite posess license and have clearence of law enforcement authority. In the unfortunate event that something happens to your ticket, rest assured that you are covered by insurance.
+                        </div>
+                    </div>
+                </div>
+                <!-- end of 6th panel -->
+            </div>
+            <!-- end of #bs-collapse  -->
+	 </div>
+	</div>
+    	<!-- end of container --> 	
+		
+		 </div><!-- /container -->
+        </div><!-- Ends: .col-sm-6 -->
+    </div>
+</section>
+                
         <!-- ===================================================
         Javascript Files
     ===================================================== -->

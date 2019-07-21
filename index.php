@@ -322,6 +322,9 @@
     <script src="js/owl.carousel.min.js"></script>
     <!-- Sticky JS -->
     <script src="js/jquery.sticky.js"></script>
+    <!-- Smooth Scroll -->
+    <script src="js/smooth-scroll.js"></script>	
+	    
     <!-- Custom JS -->
     <script src="js/plugins.js"></script>
     <script src="js/custom.js"></script>

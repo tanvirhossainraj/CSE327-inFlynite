@@ -337,7 +337,18 @@
                             </div>
                             <div id="form-messages"></div>
                         </form>
-           </div>      
+           </div>  
+	</div><!-- Ends. col-sm-8 -->
+	<div class="col-md-4 col-sm-5">
+                    <div class="contact-details">
+                        <h3>Get In Touch</h3>
+                        <div id="map" style="width:100%;height:300px;"></div><br>
+                        
+                    </div>
+                </div><!-- Ends: .col-sm-4 -->
+            </div>
+        </div>
+    </section><!-- Ends: .contact -->	   
         <!-- ===================================================
         Javascript Files
     ===================================================== -->

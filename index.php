@@ -310,7 +310,28 @@
         </div><!-- Ends: .col-sm-6 -->
     </div>
 </section>
-                
+	    
+ <!-- Contact -->
+    <section class="contact" id="contact">
+        <div class="container">
+            <div class="row">
+               <div class="col-sm-12 section-header">
+                   <h2>Contact</h2>
+               </div> 
+		<div class="col-md-8 col-sm-7">
+                    <div class="contact-wrapper">
+                        <form role="form" method="post" action="ContactInsert.php" id="reused_form">
+                            <div class="form-group row">
+                                <div class="col-sm-6">
+                                    <input type="text" placeholder="Name" name="name" required>
+                                </div>
+                                <div class="col-sm-6">
+                                    <input type="text" placeholder="Email" name="email" required>
+                                </div>
+                                <div class="col-sm-12">
+                                    <textarea placeholder="Message" name="message" required></textarea>
+                                </div>
+                               
         <!-- ===================================================
         Javascript Files
     ===================================================== -->

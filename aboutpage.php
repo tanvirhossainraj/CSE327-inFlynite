@@ -110,5 +110,10 @@
   </div>
 </div>
 
+  <!-- Footer -->
+<footer class="container-fluid bg-4 text-center">
+  <p>&copy;Flight Management System<a href="index.php">www.inFlynite.com</a></p> 
+</footer>
+  
 </body>
 </html>

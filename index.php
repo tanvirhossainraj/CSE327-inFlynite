@@ -185,7 +185,16 @@
             </div>
         </div>
     </section><!-- Ends: .download-app -->
-			
+	    
+    <!-- FAQs -->
+
+    <section class="faqs" id="faqs">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 section-header">
+                   <h2>FAQ's</h2>
+                </div>
+                 															
 			
         <!-- ===================================================
         Javascript Files

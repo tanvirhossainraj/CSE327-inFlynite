@@ -402,6 +402,25 @@
     <!-- Custom JS -->
     <script src="js/plugins.js"></script>
     <script src="js/custom.js"></script>
+	   
+    <!-- Google Map API -->
+	
+	<script>
+	function myMap() {
+	  var mapCanvas = document.getElementById("map");
+	  var myCenter = new google.maps.LatLng(23.815103,90.425538); 
+	  var mapOptions = {center: myCenter, zoom: 15};
+	  var map = new google.maps.Map(mapCanvas,mapOptions);
+	  var marker = new google.maps.Marker({
+	    position: myCenter,
+	    animation: google.maps.Animation.BOUNCE
+	  });
+	  marker.setMap(map);
+	}
+	</script>
+
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh_zkg7SIw__CgtjnwEEfjgnYAY0HYSI4&callback=myMap"></script>
+	
 
 </body>
 

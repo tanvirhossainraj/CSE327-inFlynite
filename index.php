@@ -357,7 +357,21 @@
                 </div><!-- Ends: .col-sm-4 -->
             </div>
         </div>
-    </section><!-- Ends: .contact -->	   
+    </section><!-- Ends: .contact -->	
+ <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5 col-sm-12 footer-bottom-left">
+                    <p>Copyright &copy; 2019 inFlynite. All rights reserved.</p>
+                </div>
+                <div class="col-md-7 col-sm-12 footer-bottom-menu">
+                    <ul class="list-unstyled">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
         <!-- ===================================================
         Javascript Files
     ===================================================== -->

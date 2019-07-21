@@ -167,7 +167,17 @@
     
     
     <!-- Ends: about-app -->	
-
+	    
+     <!-- Download App -->
+    <section class="download-app" id="download-app">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 section-header">
+                    <h2>Download</h2>
+					<br>
+					<br>
+			
+			
         <!-- ===================================================
         Javascript Files
     ===================================================== -->

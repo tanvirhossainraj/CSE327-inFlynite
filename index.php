@@ -36,13 +36,7 @@
 
 </head>
 <body>
-	<!-- Preloader -->
-    <!--<div class="preloader">
-    	<div id="loader">
-			<div id="box"></div>
-			<div id="hill"></div>
-		</div>
-    </div>-->
+	
     <!-- Header -->
     <header id="home">
         <nav class="navbar navbar-default" id="main-nav">
@@ -65,7 +59,7 @@
                         <div class="collapse navbar-collapse navbar-morki">
                             <ul class="nav navbar-nav navbar-right">
                                 <li class="active"><a href="#home" data-scroll>Home</a></li>
-                                <li><a href="about.php" >About</a></li>
+                                <li><a href="aboutpage.php" >About</a></li>
 								<li><a href="#features" data-scroll>Features</a></li>
                                 <li><a href="#faqs" data-scroll>Faq</a></li>
                                 <li><a href="#contact" data-scroll>Contact</a></li>

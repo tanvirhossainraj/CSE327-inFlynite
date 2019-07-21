@@ -89,6 +89,26 @@
   <span class="glyphicon glyphicon-plane"></span>
   <span class="glyphicons glyphicons-camera"></span>
   
+</div>
+
+<!-- Third Container (Grid) -->
+<div class="container-fluid bg-3 text-center">    
+  <h3 class="margin">Where To Find Us?</h3><br>
+  <div class="row">
+    <div class="col-sm-4">
+      <p><b>Facebook</b><br>Swing by our facebook page "inFlynite"!Follow us for more interesting stuffs!We would be more than happy to welcome you!</p>
+      <img src="../CSE327ClassProject/images/Facebook_logo_(square).png" class="img-responsive img-circle margin" style="width: 200px;height: 200px;margin-left: 200px;margin-top: 80px;" alt="Image">
+    </div>
+    <div class="col-sm-4"> 
+      <p><b>Linked In</b><br>You can also find us at Linked In! We maintain all our professional errands there!<br> Yameen Irteza | Nashid Jamal Chowdhury | Sumaiya Tarannum Noor</p>
+      <img src="../CSE327ClassProject/images/linkedin-logo-icon-786.png" class="img-responsive img-circle margin" style="width: 200px;height: 200px;margin-left: 200px;margin-top: 50px;" alt="Image">
+    </div>
+    <div class="col-sm-4"> 
+      <p><b>Instagram</b><br>You can follow us on our Instagram page "inFlyni8e" for more exciting updates on this system!</p>
+      <img src="../CSE327ClassProject/images/instagram-1675670_960_720.png" class="img-responsive img-circle margin" style="width: 200px;height: 200px;margin-left: 200px;margin-top: 80px;" alt="Image">
+    </div>
+  </div>
+</div>
 
 </body>
 </html>

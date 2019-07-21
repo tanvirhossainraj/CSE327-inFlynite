@@ -109,7 +109,34 @@
                         <a href="#">Book your flight!</a>
                     </div>
                 </div><!-- Ends: .col-sm-3 -->   
-		    
+		<div class="col-md-3 col-sm-6">
+                    <div class="service-box">
+                        <div class="icon"><i class="fa fa-search "></i></div>
+                        <h3 class="serviceboxhead" >Search Flights</h3>
+                        <p class="serviceboxtext">More to be excited about, with <b>inFlynite</b> you can search a passengers flight when in need amongst on-time schedules with the boarding pass as well!<br></p>
+                        <a href="searchflight.php">Search Flight!</a>
+                    </div>
+                </div><!-- Ends: .col-sm-3 -->
+                <div class="col-md-3 col-sm-6">
+                    <div class="service-box">
+                        <div class="icon"><i class="fa fa-tag"></i></div>
+                        <h3 class="serviceboxhead">Seat Configurations</h3>
+                        <p class="serviceboxtext">Give a round about on the seat configurations of airlines to reserve seats for passengers! Dont forget to look for miles!<br><br></p>
+                         <a href="seats.php">Book Seats!</a>                 
+				   </div>
+                </div><!-- Ends: .col-sm-3 -->
+                <div class="col-md-3 col-sm-6">
+                    <div class="service-box">
+                        <div class="icon"><i class="fa fa-shield"></i></div>
+                        <h3 class="serviceboxhead">Security</h3>
+						
+                        <p class="serviceboxtext">All informations provided by <b>inFlynite</b> are secured and undergoes intensive measures to make sure our informations are delivered precisely.</p>
+                        <a href="#">Read More!</a><br>
+                    </div>
+                </div><!-- Ends: .col-sm-3 -->
+            </div>
+        </div>
+    </section><!-- Ends: .services i.e. next header-->    
 
         <!-- ===================================================
         Javascript Files

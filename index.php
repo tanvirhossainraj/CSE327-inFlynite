@@ -331,7 +331,13 @@
                                 <div class="col-sm-12">
                                     <textarea placeholder="Message" name="message" required></textarea>
                                 </div>
-                               
+                               <div class="col-sm-8">
+                                    <button type="submit" name="send" class="btn btn-lg btn-success pull-left" id="btnContactUs" style="margin-left:300px;">Submit</button>
+                                </div>
+                            </div>
+                            <div id="form-messages"></div>
+                        </form>
+           </div>      
         <!-- ===================================================
         Javascript Files
     ===================================================== -->

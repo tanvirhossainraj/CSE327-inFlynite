@@ -343,7 +343,16 @@
                     <div class="contact-details">
                         <h3>Get In Touch</h3>
                         <div id="map" style="width:100%;height:300px;"></div><br>
-                        
+                        <ul class="list-unstyled contact-info-list">
+                            <li><i class="fa fa-phone"></i> Phone: +880-179658-6154</li>
+                            <li><i class="fa fa-envelope"></i> Email: yameen.irteza@northsouth.edu</li>
+                            <li><i class="fa fa-globe"></i> Web: www.inFlynite.com</li>
+                        </ul> 
+                        <ul class="list-unstyled contact-social">
+                            <li><a href="https://www.facebook.com" target="blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="intent://send/+8801796586154#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end"><i class="fa fa-whatsapp"></i></a></li>
+                        </ul>
                     </div>
                 </div><!-- Ends: .col-sm-4 -->
             </div>

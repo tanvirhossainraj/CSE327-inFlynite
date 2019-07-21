@@ -188,7 +188,29 @@
                 <div class="col-sm-12 section-header">
                    <h2>FAQ's</h2>
                 </div>
-                 															
+                <div class="col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="container">
+                                                                            
+        <div class="col-md-12 col-sm-12 col-xs-12">
+                 
+        <div class="panel-group wrap" id="bs-collapse">
+	    
+	    <!-- start of panel -->	
+            <div class="panel">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#bs-collapse" href="#one">
+                                <i class="fa fa-search fa-lg"></i>What is inFlynite?
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="one" class="panel-collapse collapse">
+                        <div class="panel-body">
+                        It is premium management service that we are currently running to provide convenience to our passengers and the management site. Additionally, you can book seats, boarding pass and flights to your passengers.
+                        </div>
+                    </div>
+                </div>
+                <!-- end of panel -->															
 			
         <!-- ===================================================
         Javascript Files

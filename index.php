@@ -94,6 +94,13 @@
             </div>
         </div>
     </section><!-- Ends: .intro -->
+    <!-- Services -->
+    <section class="services service-style2" id="features">
+        <div class="container" >
+            <div class="row">
+               <div class="col-sm-12 section-header">
+                   <h2 class="featurehead" style="text-transform:none;">What more can you do with inFlynite?</h2>
+               </div>
 
         <!-- ===================================================
         Javascript Files

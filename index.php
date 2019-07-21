@@ -101,6 +101,15 @@
                <div class="col-sm-12 section-header">
                    <h2 class="featurehead" style="text-transform:none;">What more can you do with inFlynite?</h2>
                </div>
+	       <div class="col-md-3 col-sm-6">
+                    <div class="service-box">
+                        <div class="icon"><i class="fa fa-calendar"></i></div>
+                        <h3 class="serviceboxhead">Bookings</h3>
+                        <p class="serviceboxtext">With <b>inFlynite</b> you can also book flights for passengers alongside managing flights,passengers,employees and so on!</p>
+                        <a href="#">Book your flight!</a>
+                    </div>
+                </div><!-- Ends: .col-sm-3 -->   
+		    
 
         <!-- ===================================================
         Javascript Files

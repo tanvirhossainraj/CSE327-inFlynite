@@ -324,7 +324,15 @@
     <script src="js/jquery.sticky.js"></script>
     <!-- Smooth Scroll -->
     <script src="js/smooth-scroll.js"></script>	
-	    
+    <!-- Magnific Popup -->
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <!-- Counter Up -->
+    <script src="js/jquery.counterup.min.js"></script>
+    <script src="js/waypoints.min.js"></script>
+    <!-- SymoTimer -->
+    <script src="js/jquery.syotimer.min.js"></script>
+    <!-- WOW JS -->
+    <script src="js/wow.min.js"></script>	    
     <!-- Custom JS -->
     <script src="js/plugins.js"></script>
     <script src="js/custom.js"></script>

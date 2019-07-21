@@ -94,6 +94,79 @@
             </div>
         </div>
     </section><!-- Ends: .intro -->
+    <!-- Services -->
+    <section class="services service-style2" id="features">
+        <div class="container" >
+            <div class="row">
+               <div class="col-sm-12 section-header">
+                   <h2 class="featurehead" style="text-transform:none;">What more can you do with inFlynite?</h2>
+               </div>
+	       <div class="col-md-3 col-sm-6">
+                    <div class="service-box">
+                        <div class="icon"><i class="fa fa-calendar"></i></div>
+                        <h3 class="serviceboxhead">Bookings</h3>
+                        <p class="serviceboxtext">With <b>inFlynite</b> you can also book flights for passengers alongside managing flights,passengers,employees and so on!</p>
+                        <a href="#">Book your flight!</a>
+                    </div>
+                </div><!-- Ends: .col-sm-3 -->   
+		<div class="col-md-3 col-sm-6">
+                    <div class="service-box">
+                        <div class="icon"><i class="fa fa-search "></i></div>
+                        <h3 class="serviceboxhead" >Search Flights</h3>
+                        <p class="serviceboxtext">More to be excited about, with <b>inFlynite</b> you can search a passengers flight when in need amongst on-time schedules with the boarding pass as well!<br></p>
+                        <a href="searchflight.php">Search Flight!</a>
+                    </div>
+                </div><!-- Ends: .col-sm-3 -->
+                <div class="col-md-3 col-sm-6">
+                    <div class="service-box">
+                        <div class="icon"><i class="fa fa-tag"></i></div>
+                        <h3 class="serviceboxhead">Seat Configurations</h3>
+                        <p class="serviceboxtext">Give a round about on the seat configurations of airlines to reserve seats for passengers! Dont forget to look for miles!<br><br></p>
+                         <a href="seats.php">Book Seats!</a>                 
+				   </div>
+                </div><!-- Ends: .col-sm-3 -->
+                <div class="col-md-3 col-sm-6">
+                    <div class="service-box">
+                        <div class="icon"><i class="fa fa-shield"></i></div>
+                        <h3 class="serviceboxhead">Security</h3>
+						
+                        <p class="serviceboxtext">All informations provided by <b>inFlynite</b> are secured and undergoes intensive measures to make sure our informations are delivered precisely.</p>
+                        <a href="#">Read More!</a><br>
+                    </div>
+                </div><!-- Ends: .col-sm-3 -->
+            </div>
+        </div>
+    </section><!-- Ends: .services i.e. next header-->   
+	
+<!-- About App -->
+    <section class="faqs2" id="faqs2">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 section-header">
+                <h2 style="color:white;text-transform:none;">Why inFlynite?</h2>
+                <br>
+                <br>
+                <p style="color:white;font-size:30px;"><b>inFlynite</b> tries to bring you a little bit of everything in your hand starting from managing flights, employees, airlines, passengers to even booking flights and searching them as well providing boarding pass and seat reservations! So find your way upto <b>inFlynite</b> abilities! Reach for the <b>inFlynite</b>!</p>
+                </div>
+                <div class="col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="container">
+                                                                            
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            
+            
+
+        </div>
+    <!-- end of container -->                                                                                                                                           
+                                        
+                                        
+                    </div><!-- /container -->
+                </div><!-- Ends: .col-sm-6 -->
+            
+        </div>
+    </section>
+    
+    
+    <!-- Ends: about-app -->	
 
         <!-- ===================================================
         Javascript Files

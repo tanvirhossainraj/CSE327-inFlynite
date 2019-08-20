@@ -9,4 +9,6 @@ So far -
 Video 1 - Done
 Video 2 - Done
 Video 3 - Done
-Video 4 - 04:16
+Video 4 - Done
+
+Having trouble dealing with CodeIgnitor, hence opting to go with raw php as time is running out of hand.

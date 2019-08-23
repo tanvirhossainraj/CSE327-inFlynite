@@ -42,6 +42,23 @@
 </header>
 <!-- Ends: header -->
 
+<!-- Banner Section -->
+
+<section class="intro2 intro2-style2">
+	<div class="container-fluid">
+	<div class="row">
+	<div class="col-md-7 col-sm-7 intro2-info wow fadeIn">
+	<div class="intro2-info-content" style="margin-left: 365px;">
+	<h1 id="beadriverformtexthead" style="color:black;">Manage <span style="color:white;">inFlynite</span> amount of <br> flights altogether right where<br> you are!</h1><br><br>
+	<a href="showtable.php" class="arrival" style="font-size:55px;margin-left:5px;color:#f4f4f4;">Arrivals |</a>
+	<a href="departure.php" class="departure" style="font-size:55px;color:#195387;">Departures</a>
+	</div>
+	</div>
+	</div>
+</section>
+<!-- Ends: .Banner -->
+
+
 
 <!-- ===================================================
 		Javascript Files

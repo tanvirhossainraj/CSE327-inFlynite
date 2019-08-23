@@ -70,7 +70,7 @@
 							  </tr>
 							</thead>
 							<tbody>
-							  			 
+							  <?php include('showtable2.php');?>				 
 							</tbody>
 						  </table>
 						</div>
@@ -97,26 +97,26 @@
 	</section>
 	<!-- Ends: .information -->
 
-<!-- Footer -->
- <footer>
-	<div class="container">
-	<div class="row">
-	<div class="col-md-5 col-sm-12 footer-bottom-left">
-  <footer>
-	<div class="container">
-	<div class="row">
-	<div class="col-md-5 col-sm-12 footer-bottom-left">
-	<p>Copyright &copy; 2019 inFlynite. All rights reserved.</p>
-	</div>
+	<!-- Footer -->
+	 <footer>
+		<div class="container">
+		<div class="row">
+		<div class="col-md-5 col-sm-12 footer-bottom-left">
+	  <footer>
+		<div class="container">
+		<div class="row">
+		<div class="col-md-5 col-sm-12 footer-bottom-left">
+		<p>Copyright &copy; 2019 inFlynite. All rights reserved.</p>
+		</div>
 
-	<div class="col-md-7 col-sm-12 footer-bottom-menu">
-		<ul class="list-unstyled">
-			<li><p>Flight Management System/<a href="index.php" style="color: #006699;">www.inFlynite.com</a></p></li>
-		</ul>
+		<div class="col-md-7 col-sm-12 footer-bottom-menu">
+			<ul class="list-unstyled">
+				<li><p>Flight Management System/<a href="index.php" style="color: #006699;">www.inFlynite.com</a></p></li>
+			</ul>
 
-	    <p id="back-top"><a href="#top"><i class="fa fa-angle-up"></i></a></p>
-    </div>
-</footer> 
+		    <p id="back-top"><a href="#top"><i class="fa fa-angle-up"></i></a></p>
+	    </div>
+	</footer> 
 
 <!-- Ends: Footer -->
 

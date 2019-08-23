@@ -54,7 +54,7 @@
 			<div class="col-sm-12 section-header">
 			<h2 class="featurehead">INSERT</h2>
 			</div>
-
+			
 			<div class="col-md-12 col-sm-12">
 				<div class="service-box3">
 					 <div class="container-fluid" >
@@ -63,13 +63,33 @@
 							</div>
 							<br><br>
 							<div class="container" style="border: 8px solid #ef494d;background-color: #ef494d;border-radius: 25px;">
+							<form action="arrivalinsert.php" method="POST">
+							<label>TIME: </label>
+							 <input type="text" placeholder="Enter flight time.." name="fatimes" style="margin-left: 100px;"required>
+							  <br>
+							<label>FLIGHT NUMBER: </label>
+							<input type="text" placeholder="Enter flight number.." name="fano" style="margin-left: 100px;" required>
+							  <br>
+							<label>DESTINATION: </label>
+							<input type="text" placeholder="Enter departing flight.." style="margin-left: 100px;" name="fadest" required>
+							  <br>
+							<label>GATE: </label>
+							<input type="text" placeholder="Enter gate number" style="margin-left: 100px;" name="fagate" required>
+								<br><br> 							  
+							<label>FLIGHT STATUS: </label>
+							<input type="text" placeholder="Enter flight status" style="margin-left: 100px;" name="fastatus" required>
+							  <br><br>
+							  <button type="submit" name="arrivalsend" class="savebtn">Save</button>
+							</div>								
+								</form>
 							</div>
-                    </div>
+                  			  </div>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
+			
 <!-- Ends: .col-sm-3 -->
 </div>
 </section>
@@ -79,12 +99,12 @@
 
 <section class="whocanbeourdriver" id="whocanbeourdriver">
 <div class="container">
-<div class="row">
-<div class="col-sm-12">
-<h2>How to insert flights for arrivals?</h2>
+	<div class="row">
+	<div class="col-sm-12">
+	<h2>How to insert flights for arrivals?</h2>
 
-<p>Please fill up all the necessary fields shown above regarding the details of the flights arriving at the airports.</p>
-</div>
+	<p>Please fill up all the necessary fields shown above regarding the details of the flights arriving at the airports.</p>
+	</div>
 </div>
 </div>
 </section>
@@ -100,12 +120,12 @@
 <div class="container">
 <div class="row">
 <div class="col-md-5 col-sm-12 footer-bottom-left">
-<p>Copyright &copy; 2018 inFlynite. All rights reserved.</p>
+<p>Copyright &copy; 2019 inFlynite. All rights reserved.</p>
 </div>
 
 <div class="col-md-7 col-sm-12 footer-bottom-menu">
 <ul class="list-unstyled">
-	<li><a href="privacy_policy.html">Privacy Policy</a></li>
+	<li><p>Flight Management System/<a href="index.php" style="color: #006699;">www.inFlynite.com</a></p></li>
 </ul>
 
 <p id="back-top"><a href="#top"><i class="fa fa-angle-up"></i></a></p>

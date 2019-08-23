@@ -56,14 +56,27 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-7 col-sm-7 intro2-info wow fadeIn">
+				<div class="intro2-info-content">
+						<h1 id="beadriverformtexthead" style="color:black;font-size: 50px;">Be an
+						<span style="color:white;">inFlynite</span> expert. Manage everything you need to deal with!</h1>
 
-			</div>
+						<p id="beadriverformtextph" style="font-size:25px;"><b>Manage flights, passengers, employees and even airlines! Reach to the inFlynity!</b></p>
+
+						<div class="container">
+							<div class="row">
+								<div class="col-sm-12">
+									<ul class="list-unstyled">
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
 			<!-- Ends: .intro-info -->
-			<!-- Ends: .intro -->
-
 		</div>
 	</div>
 </section>
+<!-- Ends: .intro -->
 
 <!-- ===================================================
 		Javascript Files

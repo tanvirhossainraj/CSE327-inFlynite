@@ -46,7 +46,7 @@
 <!-- Ends: header -->
 
 
-<!-- Services -->
+<!-- Search Service -->
 
 <section class="services service-style2" id="features">
 	<div class="container">
@@ -83,8 +83,9 @@
 <!-- Ends: .col-sm-3 -->
 </div>
 </section>
-<!-- Ends: .services -->
-  <!-- Download App -->
+<!-- Ends: .searchservices -->
+ 
+<!--Information -->
 
 <section class="whocanbeourdriver" id="whocanbeourdriver">
 <div class="container">
@@ -97,7 +98,9 @@
 </div>
 </div>
 </section>
-<!-- Ends: .download-app --><!-- Footer -->
+<!-- Ends: .information  -->
+
+<!-- Footer -->
 
 <footer>
 <div class="container">

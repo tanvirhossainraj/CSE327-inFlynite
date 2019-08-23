@@ -80,6 +80,15 @@
 		</div>
 	</div>
 	
+	<div class="container">
+	<br>
+	<br>
+		<div class="row">
+			<div class="col-lg-12" align="center">
+				<button class="btn btn-lg btn-success center text-center" id="btnContactUs" onclick="document.getElementById('id01').style.display='block'">Manage</button>
+			</div>
+		</div>
+	</div>
 	<!-- Ends: .arrivaltable -->
 
 	<!-- Information -->

@@ -79,6 +79,45 @@
 			</div>
 		</div>
 	</div>
+		
+	<!--Modal starts-->
+					<div id="id01" class="modal">
+					<form class="modal-content3 animate" action="/action_page.php">
+						<div class="imgcontainer">
+								  <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+								  <img src="images/Aviation.png" alt="Avatar" class="avatar" style="background-color: white;">
+						</div>
+						<div class="container">
+								  <h1 style="margin-left:200px;">Manage your flights</h1>
+								  <p style="font-size:25px;"><b>Add a flight info to the table!</b></p><br>
+								  <a href="arrivals2.php" class="insertbtn" style="background-color:white;color:#ef494d;border:1px solid white;padding:10px;"><b>Insert</b></a>
+								  <br><br><br>
+								  <div><p style="font-size:25px;"><b>Or you could search your flight to edit or delete!</b></p></div><br>
+								  <a href="searchpagearrivals.php" style="background-color:white;color:#ef494d;border:1px solid white;padding:10px;" class="insertbtn"><b>Edit</b></a>&nbsp;
+								  <a href="searchdeletearrivals.php" style="background-color:white;color:#ef494d;border:1px solid white;padding:10px;" class="insertbtn"><b>Delete</b></a><br>
+								</div>
+								<br>
+									<div class="containerTemp" style="background-color:#f1f1f1">
+									  <button  style="border-radius: 4px;" type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+									</div>
+								  </form>
+								</div>
+		
+					</div>
+	<!-- Modal ends -->
+					<script>
+								// Getting the modal
+								var modal = document.getElementById('id01');
+
+								// When the user clicks anywhere outside of the modal, for closing it
+								window.onclick = function(event) {
+									if (event.target == modal) {
+										modal.style.display = "none";
+									}
+								}
+					</script>
+				
+	<!-- Ends: .col-sm-3 -->
 	
 	<div class="container">
 	<br>
@@ -105,7 +144,12 @@
 	</div>
 	</section>
 	<!-- Ends: .information -->
-
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
 	<!-- Footer -->
 	 <footer>
 		<div class="container">

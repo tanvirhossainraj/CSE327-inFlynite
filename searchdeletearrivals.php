@@ -66,7 +66,7 @@
 							<br><br>
 							<div class="container" style="border: 8px solid #ef494d;background-color: #ef494d;border-radius: 25px;">
 							<div class="dropdown">
-							<form action="arrivalsdeletesubmit.php" method="POST">
+							<form action="arrivalsdelete.php" method="POST">
 						    <label style="margin-left:300px;">Flight No: </label>
 							 <input style="margin-left:300px;" type="text" placeholder="Enter flight no.." name="flight" style="margin-left: 150px;"required>
 							<br>

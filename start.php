@@ -86,6 +86,49 @@
 			<div class="col-sm-12 section-header">
 				<h2 class="featurehead">Manage everything!</h2>
 			</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="service-box">
+					<div class="icon"><i class="fa fa-table"></i></div>
+
+					<h3 class="serviceboxhead">Flights</h3>
+
+					<p class="serviceboxtext">Take a look and deal with <b>inFlynite</b> amount of arrival and departure flights with real-time schedules. </p>
+					<a href="flightables.php">View&nbsp;&nbsp;table</a></div>
+				</div>
+				<!-- Ends: .col-sm-3 -->
+
+				<div class="col-md-3 col-sm-6">
+					<div class="service-box">
+					<div class="icon"><i class="fa fa-users"></i></div>
+
+					<h3 class="serviceboxhead">Passengers</h3>
+
+					<p class="serviceboxtext">You can also deal with all the details regarding passengers as they reach towards their flights.</p>
+					<a href="passengerstable.php">View&nbsp;&nbsp;table</a></div>
+				</div>
+				<!-- Ends: .col-sm-3 -->
+
+				<div class="col-md-3 col-sm-6">
+					<div class="service-box">
+					<div class="icon"><i class="fa fa-id-badge"></i></div>
+
+					<h3 class="serviceboxhead">Employees</h3>
+
+					<p class="serviceboxtext">Most importantly, you can manage the employees as well for their respective flights and necessary contacts.</p>
+					<a href="employeestable.php">View&nbsp;&nbsp;table</a></div>
+				</div>
+				<!-- Ends: .col-sm-3 -->
+
+				<div class="col-md-3 col-sm-6">
+					<div class="service-box">
+					<div class="icon"><i class="fa fa-plane"></i></div>
+
+					<h3 class="serviceboxhead">Airlines</h3>
+
+					<p class="serviceboxtext">Last but not the least, you can manage necessary details of airlines and their respective flights and pilots too!</p>
+					<a href="airlines.php">View&nbsp;&nbsp;table</a></div>
+				</div>
+				<!-- Ends: .col-sm-3 -->
 		</div>
 	</div>
 </section>

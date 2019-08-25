@@ -162,7 +162,7 @@
 	<li><p>Flight Management System/<a href="index.php" style="color: #006699;">www.inFlynite.com</a></p></li>
 </ul>
 
-<p id="back-top"></p>
+<p id="back-top"><a href="#top"><i class="fa fa-angle-up"></i></p>
 </div>
 </div>
 </div>

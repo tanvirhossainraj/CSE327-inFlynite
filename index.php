@@ -116,7 +116,7 @@
                         <div class="icon"><i class="fa fa-tag"></i></div>
                         <h3 class="serviceboxhead">Seat Configurations</h3>
                         <p class="serviceboxtext">Give a round about on the seat configurations of airlines to reserve seats for passengers! Dont forget to look for miles!<br><br></p>
-                         <a href="seats.php">Book Seats!</a>                 
+                         <a>Coming Soon!</a>                 
 				   </div>
                 </div><!-- Ends: .col-sm-3 -->
                 <div class="col-md-3 col-sm-6">
@@ -125,7 +125,7 @@
                         <h3 class="serviceboxhead">Security</h3>
 						
                         <p class="serviceboxtext">All informations provided by <b>inFlynite</b> are secured and undergoes intensive measures to make sure our informations are delivered precisely.</p>
-                        <a href="#">Read More!</a><br>
+                        <a>Coming Soon!</a><br>
                     </div>
                 </div><!-- Ends: .col-sm-3 -->
             </div>
@@ -367,10 +367,7 @@
                 </div>
                 <div class="col-md-7 col-sm-12 footer-bottom-menu">
                     <ul class="list-unstyled">
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
+                        <li><p>Flight Management System/<a href="index.php" style="color: #006699;">www.inFlynite.com</a></p></li>
                     </ul>
 			<p id="back-top"><a href="#top"><i class="fa fa-angle-up"></i></a></p>
                 </div>

@@ -154,7 +154,7 @@
 <div class="container">
 <div class="row">
 <div class="col-md-5 col-sm-12 footer-bottom-left">
-<p>Copyright &copy; 2019 pickNdrop. All rights reserved.</p>
+<p>Copyright &copy; 2019 inFlynite. All rights reserved.</p>
 </div>
 
 <div class="col-md-7 col-sm-12 footer-bottom-menu">
@@ -162,7 +162,7 @@
 	<li><p>Flight Management System/<a href="index.php" style="color: #006699;">www.inFlynite.com</a></p></li>
 </ul>
 
-<p id="back-top"><a href="#top"><i class="fa fa-angle-up"></p>
+<p id="back-top"></p>
 </div>
 </div>
 </div>

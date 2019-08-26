@@ -118,7 +118,7 @@
 <div class="col-sm-12">
 <h2>How to insert information about passengers?</h2>
 
-<p>Please fill up all the necessary fields shown above regarding the details of the passengers leaving and entering the airports.</p>
+<p>Please fill up all the necessary fields shown above regarding the details of the passengers who are leaving and entering the airports.</p>
 </div>
 </div>
 </div>

@@ -37,6 +37,14 @@
 </head>
 <body>
 	
+   <!-- Preloader -->
+    <div class="preloader">
+        <div id="loader">
+            <div id="box"></div>
+            <div id="hill"></div>
+        </div>
+    </div>
+	
     <!-- Header -->
     <header id="home">
         <nav class="navbar navbar-default" id="main-nav">

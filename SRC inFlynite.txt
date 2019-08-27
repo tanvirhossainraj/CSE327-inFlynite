@@ -1,4 +1,8 @@
 Introduction
 1.1 Purpose and Scope of this Documnet
-The purpose of thi document is to provide a view of CSE327 Class Project. This document willl provide the requiremenrts, development and a thorough 
-view of the project. I will also discuss the main purpose of the project.
+The purpose of thi document is to provide a view of CSE327 Class Project. This document willl provide the requiremenrts, development and a thorough view of the project. It will also discuss the main purpose of the project. It will briefly discuss our project on flightmanagement system and all the services that we provide regarding that. It will show the improvement of the project.
+
+1.2 Doument Conventions
+While writting this SRS, we followed IEEE Standerd SRS Template.We also tried to serialize the requirements according to their priority.
+Important Words and Phrases are in Bold or in Italic form. Before discussing the priorities, we discussed about the requirements. Customer, developer and end user requirements are discussed accordingly.
+

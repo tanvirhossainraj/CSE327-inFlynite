@@ -4,5 +4,7 @@ The purpose of thi document is to provide a view of CSE327 Class Project. This d
 
 1.2 Doument Conventions
 While writting this SRS, we followed IEEE Standerd SRS Template.We also tried to serialize the requirements according to their priority.
-Important Words and Phrases are in Bold or in Italic form. Before discussing the priorities, we discussed about the requirements. Customer, developer and end user requirements are discussed accordingly.
+Important Words and Phrases are in Bold or in Italic form. Web tried to find all the Stake Holders.Before discussing the priorities, we discussed about the requirements. Customer, developer and end user requirements are discussed accordingly. 
+There are so many other systems, websites and applications are available on the same topic. So, while writting this SRS, we tried to collect the uncommon yet important requirements and prioratise them carefully. The basic goal is to meet the needs of the end users. So, while collecting requirement we tried to be as creative as possible. We tried to make the system useful, creative , less time consuming.
+We followed both waterfall and agail method in the Software Development process. So, the SRS will be discussed from that view point as well.
 

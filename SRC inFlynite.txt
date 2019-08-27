@@ -1,0 +1,4 @@
+Introduction
+1.1 Purpose and Scope of this Documnet
+The purpose of thi document is to provide a view of CSE327 Class Project. This document willl provide the requiremenrts, development and a thorough 
+view of the project. I will also discuss the main purpose of the project.

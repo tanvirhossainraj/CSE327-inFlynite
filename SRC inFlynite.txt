@@ -10,3 +10,7 @@ We followed both waterfall and agail method in the Software Development process.
 
 1.3 Intended Audience and Reading Suggestion
 This document is initially intended for the Air Linces, Regular passengers of flights and people who are realtod to air lines and air ports. It is released as a document of common and important requirements of the Air Lines, regular passangers and other people who are realated to air port, air lines or flight management system.
+The contributors to this SRS are-
+Sumaiya Tarannum Noor
+Yameen Irteza
+Nashid Jamal Chowdhury

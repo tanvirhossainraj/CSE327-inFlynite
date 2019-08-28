@@ -23,7 +23,9 @@
 <div class="container">
 <div class="row">
 <div class="col-sm-12"><!-- Brand and toggle get grouped for better mobile display -->
-<div class="navbar-header"><button class="navbar-toggle" data-target=".navbar-morki" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span></button><a class="navbar-brand" href="index-2.html"><img src="images/001.gif" class="img-responsive img-circle margin" style="height: 75px;margin-top:-10px;" /></a></div>
+<div class="navbar-header"><button class="navbar-toggle" data-target=".navbar-morki" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span></button><a class="navbar-brand" href="index-2.html"><img src="images/001.gif" class="img-responsive img-circle margin" style="height: 75px;margin-top:-10px;" /></a>
+	<h1 style="color: white;display:inline;font-family: Comic Sans MS;padding-top:20px;font-size:50px;">inFlynite</h1>
+</div>
 <!-- Collect the nav links, forms, and other content for toggling -->
 
 <div class="collapse navbar-collapse navbar-morki">

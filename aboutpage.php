@@ -105,7 +105,7 @@
     </div>
     <div class="col-sm-4"> 
       <p><b>Instagram</b><br>You can follow us on our Instagram page "inFlyni8e" for more exciting updates on this system!</p>
-      <img src="../CSE327ClassProject/images/instagram-1675670_960_720.png" class="img-responsive img-circle margin" style="width: 200px;height: 200px;margin-left: 200px;margin-top: 80px;" alt="Image">
+      <img src="http://pluspng.com/img-png/instagram-png-instagram-png-logo-1455.png" class="img-responsive img-circle margin" style="width: 200px;height: 200px;margin-left: 200px;margin-top: 80px;" alt="Image">
     </div>
   </div>
 </div>
